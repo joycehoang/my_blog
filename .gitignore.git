@@ -1,0 +1,8 @@
+.gitignore
+*.pyc
+*~
+__pycache__
+myvnev
+db.sqlite3
+/static
+.DS_Store
